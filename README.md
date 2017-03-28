@@ -4,6 +4,6 @@
 
 reload .tmux.conf:
 ```
-tmux source ~/.tmux.conf
+$ tmux source ~/.tmux.conf
 # Press tmux control prefix + capital I to install tmux-better-mouse-mode
 ```
